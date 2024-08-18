@@ -4,7 +4,7 @@
   For data source click her: [Sales Data](/Source_Data/)
 
 # Data Sample
-  
+![](Images/Data_Sample.png)
 
 # Tools Used
   * Power BI
@@ -15,5 +15,8 @@
   ### 1. Net Sales by Year & Quarter
   ![](Images/1_Net_Sales_by_Yr_&_Qtr.PNG)
   ### 2. Net Sales by Region
+  ![](Images/2_Net_Sales_by_Region.PNG)
   ### 3. Net Sales & Units by Product
+  ![](Images/3_Net_Sales_&_Units_by_Product.png)
   ### 4. Top 10 Sales Reps
+  ![](Images/4_Top_10_Sales_Reps.PNG)
