@@ -13,6 +13,8 @@
 # The Analysis
 
   ### 1. Net Sales by Year & Quarter
+
+  Imaginary target - Drop in 1st 2 Qrt
   ![](Images/1_Net_Sales_by_Yr_&_Qtr.PNG)
   ### 2. Net Sales by Region
   ![](Images/2_Net_Sales_by_Region.PNG)
