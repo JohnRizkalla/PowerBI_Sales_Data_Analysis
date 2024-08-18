@@ -13,6 +13,7 @@
 # The Analysis
 
   ### 1. Net Sales by Year & Quarter
+  ![](Images/1_Net_Sales_by_Yr_&_Qtr.PNG)
   ### 2. Net Sales by Region
   ### 3. Net Sales & Units by Product
   ### 4. Top 10 Sales Reps
