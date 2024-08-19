@@ -14,22 +14,33 @@
 
   ### 1. Net Sales by Year & Quarter
 
-  Imaginary target - Drop in every 1st 2 Qrts
+  An overview of the Net Sales flow over the years & by putting imaginary target at 91M to have a better prespective.
   
   ![](Images/1_Net_Sales_by_Yr_&_Qtr.PNG)
   
   ### 2. Net Sales & Units by Region
+
+  To determine the highest demanding & most profitable region.
   
   ![](Images/2_Net_Sales_&_Units_by_Region.png)
   
   ### 3. Net Sales & Units by Product
-  
-  Comparing between Carlota Doublers (Highest Sales) & lower sales but higher units like Sunshine avg price is huge
+
+  To Identify which product is the most selling and which has the highest Net Sales.
   
   ![](Images/3_Net_Sales_&_Units_by_Product.png)
   
   ### 4. Top 10 Sales Reps
-  
-  Bottom 10 for improvments
+
+  To showcase of the Sales Reps that got the highest Net Sales over the 3 years in order to give them a bonus.
   
   ![](Images/4_Top_10_Sales_Reps.PNG)
+
+  # Insights
+
+  #### 1. Thers is a Drop in every 1st 2 Qrts in each year so need to dig deeper to validate these drops.
+  #### 2. A recommendation for the company to reduce cost it might consider removing a product like "Sunshine" 
+  as it has the highest sold units with a relatively low Net Sales or sales can be increased by increasing its price.
+  #### 3. Next in action is to extract the Bottom 10 Sales Reps and look for ways of improvments.
+
+
