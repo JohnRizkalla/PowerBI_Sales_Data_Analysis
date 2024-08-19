@@ -44,3 +44,7 @@
   #### 3. Next in action is to extract the Bottom 10 Sales Reps and look for ways of improvements.
 
 
+# PowerBI Project
+
+![](Video/Sales_Data_Dashboards.mp4)
+
