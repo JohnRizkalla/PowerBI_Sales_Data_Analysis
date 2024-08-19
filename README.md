@@ -3,6 +3,8 @@
   
   For data source click her: [Sales Data](/Source_Data/)
 
+  Short video on Linkedin: https://bit.ly/3WQ5XBZ
+
 # Data Sample
 ![](Images/Data_Sample.png)
 
