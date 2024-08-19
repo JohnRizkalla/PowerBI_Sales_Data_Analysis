@@ -20,7 +20,7 @@
   
   ### 2. Net Sales & Units by Region
   
-  ![](Images/2_Net_Sales_&_Units_by_Region.PNG)
+  ![](Images/2_Net_Sales_&_Units_by_Region.png)
   
   ### 3. Net Sales & Units by Product
   
