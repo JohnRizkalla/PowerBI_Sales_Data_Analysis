@@ -15,9 +15,9 @@
 # The Analysis
 
   ### 1. Net Sales by Year & Quarter
-
-  An overview of the Net Sales flow over the years & by putting imaginary target at 91M to have a better perspective.
   
+  Calculated the Net Sales through DAX to have an overview through the years & putting imaginary target at 91M to have a better perspective.
+
   ![](Images/1_Net_Sales_by_Yr_&_Qtr.PNG)
   
   ### 2. Net Sales & Units by Region
