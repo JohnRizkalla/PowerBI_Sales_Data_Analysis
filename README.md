@@ -44,9 +44,3 @@
   #### 2. A recommendation for the company to reduce cost it might consider removing a product like "Sunshine" 
   as it has the highest sold units with a relatively low Net Sales or sales can be increased by increasing its price.
   #### 3. Next in action is to extract the Bottom 10 Sales Reps and look for ways of improvements.
-
-
-# PowerBI Project
-
-![](Video/Sales_Data_Dashboards.mp4)
-
