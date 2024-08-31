@@ -5,12 +5,8 @@
 
   Short video on LinkedIn: [Video](https://bit.ly/3WQ5XBZ)
 
-# Data Sample
-![](Images/Data_Sample.png)
-
 # Tools Used
   * Power BI
-  * Power Query
 
 # The Analysis
 
